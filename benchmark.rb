@@ -52,7 +52,7 @@ I see the apps by college page
 I see the batch update page
 I see the transfer student page
 
-
+Need to amend
 ---ffsdcc
 Planner:
 I am on planner page
