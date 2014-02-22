@@ -1,2 +1,1 @@
-myTestWithGit
-=============
+This is my Git test Project .......
