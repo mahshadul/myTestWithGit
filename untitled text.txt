@@ -1,0 +1,26 @@
+Create feature branch and push to remote repository
+Implement failing automated acceptance tests from acceptance criteria
+Implement exploratory test plan from accetance criteria
+Whiteboard/plan of attack
+
+<work items>
+
+Design and publish UI mockups and wireframes
+Implement web layer view updates
+Pass all failing automated acceptance test
+Execute exploratory test plan
+Ensure all code quality requirements are met
+Squash all commits prior to feature completion and merge to develop
+
+
+
+
+win7-ie9:
+  extensions:
+    Behat\MinkExtension\Extension:
+      default_session: selenium2
+      browser_name: iexplorer
+      selenium2:
+        browser: iexplore
+        capabilities: {"platform": "WINDOWS", "browser": "iexplorer", "version": "9"}
+        wd_host: 'http://10.56.134.117:4444/wd/hub'
