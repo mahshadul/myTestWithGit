@@ -53,7 +53,7 @@ I see the batch update page
 I see the transfer student page
 
 
----
+---ffsd
 Planner:
 I am on planner page
 I hover over in planner main navigation
