@@ -1,1 +1,3 @@
 This is my Git test Project .......
+This is in test2
+I will try my best to resolve merge conflict
